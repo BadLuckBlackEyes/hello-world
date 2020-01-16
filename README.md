@@ -1,5 +1,4 @@
 # hello-world
-My intro GitHub repository
 
 I am a 40 year old homeless shelter case manager. Originally, I was poached to be a homeless veteran case manager, but bureaucracy and unchecked ambition made it to where I spend most my time coaxing people down from drug overdoses, cleaning feces, vomit, urine, and boogers from places that would be inhuman to even reach, and being emotionally terrorized on a day to day basis. So, being 100K in student debt, with a diminishing outlook on humanity, I decided that I would return to the one thing I know and love, computers. My father was a programmer for PGE, and was a main programmer that wrote the code that safely shut down the Trojan Nuclear Power Plant. I learned to read playing King's Quest and Leisure Suit Larry. I learned to code in Basic and DOS on my IBM PC Jr. I was at the fore front of the gaming console revolution as an early adopted of the NES. I prayed to one day become a game developer.
 
